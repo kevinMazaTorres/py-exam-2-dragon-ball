@@ -1,6 +1,8 @@
 # Examen: funciones sobre Dragon Ball API
 
-Usando la API de Dragon Ball (https://dragonball-api.com/api-docs), crea una serie de funciones que permitan obtener información de los personajes y planetas. (https://github.com/robinparadise/py-exam-2-dragon-ball)
+Usando la API de Dragon Ball (https://dragonball-api.com/api-docs), crea una serie de funciones que permitan obtener información de los personajes y planetas. (https://github.com/robinparadise/py-exam-2-dragon-ball).
+
+- Enviar la solución (zip) como adjunto al email: **rgiles@metrodoraeducation.com**
 
 La API de Dragon Ball tiene la siguiente estructura:
 
