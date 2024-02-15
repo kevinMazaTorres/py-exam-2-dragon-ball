@@ -55,7 +55,7 @@ print(api.get_characters_names())
     - la funcion debe llamarse `get_characters_names()`
     - el total de personajes es 58
 
-  - (1pts) funciones de filtrado en la clase `DragonBallApi`:
+  - (1pts) Crea funciones de filtrado en la clase `DragonBallApi`:
     - (0.5pts) Crea una función que liste solo los personajes por género
       - la funcion debe llamarse `get_characters_by_gender(gender)`
       - La función debe retornar solo los nombres de los personajes
@@ -65,7 +65,7 @@ print(api.get_characters_names())
   
   - (1pts) Crea un función que retorne una lista con todos los nombres de las transformaciones de un personaje. La función debe llamarse `character.get_transformations()` y debe usar la clase `Character`.
   
-  - (2pts) funciones sobre /planets
+  - (2pts)  crea funciones sobre /planets
     - (0.5pts) una funcion `get_planets()` que retorne una lista con los nombres de los planetas
     - (0.5pts) una función `get_destroyed_planets()` que retorne una lista con los nombres de los planetas destruidos
     - (1pts) Una funcion que retorne la lista de personajes de un planeta, la función debe llamarse `planet.get_characters()` y debe retornar solo los nombres de los personajes usando la clase `Planet`.
